@@ -20,12 +20,16 @@ void reed_ekidan2() {
   printf("Dale Reed and Ellen Kidane\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
+void briver_YuxinShen(){
+  printf("Bernardo Rivera and Yuxin Shen);
+
+}
 
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    
+    BernardoRivera_YuxinShen();
     return 0;
 }
